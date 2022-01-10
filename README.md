@@ -1,4 +1,6 @@
-### Hi there 👋
+### Aloha 👋
+
+I teach computing at a vocational training school in northern Spain. Most of my repositores are just resources for my students.
 
 <!--
 **ehguille/ehguille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
